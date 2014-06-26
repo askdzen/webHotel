@@ -1,3 +1,5 @@
+
+
 Task: create a hotel with single, double, triple rooms, and conference rooms. Sort and display in ascending
  price all the leased premises (rooms and meeting rooms), and show the sort by a particular parameter numbers. Find and display the console room with a price below / above the set limit.
 Execution: When you run the program performs the withdrawal of all rooms of the main building (rooms + conference rooms), sorted by price ascending and
